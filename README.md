@@ -1,1 +1,1 @@
-C# project with MS SQL database for university classes
+# C# project with MS SQL database for university classes
