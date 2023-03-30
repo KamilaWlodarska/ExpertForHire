@@ -1,1 +1,1 @@
-# ExpertForHire
+C# project with MS SQL database for university classes
