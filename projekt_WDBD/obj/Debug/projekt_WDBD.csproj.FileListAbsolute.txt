@@ -1,0 +1,16 @@
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\bin\Debug\projekt_WDBD.exe.config
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\bin\Debug\projekt_WDBD.exe
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\bin\Debug\projekt_WDBD.pdb
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.Form1.resources
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.Properties.Resources.resources
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.csproj.GenerateResource.cache
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.exe
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.pdb
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.Form2.resources
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.Form3.resources
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.Form4.resources
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.Form5.resources
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.Form6.resources
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.csproj.AssemblyReference.cache
+C:\Users\Kamila\source\repos\projekt_WDBD\projekt_WDBD\obj\Debug\projekt_WDBD.csproj.SuggestedBindingRedirects.cache
