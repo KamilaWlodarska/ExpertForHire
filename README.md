@@ -1,3 +1,7 @@
 ## Expert For Hire project
-### C# connected with MS SQL database
+### C# Windows Forms connected with MS SQL database
 ### Created on university classes
+### Functionalities:
+* CRUD operations on clients
+* CRUD operations on experts
+* CRUD operations on jobs
